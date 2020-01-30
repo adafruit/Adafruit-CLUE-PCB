@@ -12,8 +12,6 @@ Format is EagleCAD schematic and board layout
 
 Do you feel like you just don't have a CLUE? Well, we can help with that - get a CLUE here at Adafruit by picking up this sensor-packed development board. We wanted to build some projects that have a small screen and a lot of sensors. To make it compatible with existing projects, we made it the same shape and size as the BBC micro:bit and with the same edge-connector on the bottom with 5 big pads so it will fit into your existing robot kit or 'bit add-on. This is the alpha release of the hardware.
 
-This is the alpha release of the hardware, everything works, but we may change around the sensors or pinouts as we add projects and support for the CLUE! We've also set the price at an introductory $29.95 during the ALPHA, the price will be $39.95 after the alpha is over.
-
 While the CLUE looks a bit like a 'bit it has totally redesigned-from-scratch technology:
 
 * Nordic nRF52840 Bluetooth LE processor - 1 MB of Flash, 256KB RAM, 64 MHz Cortex M4 processor
